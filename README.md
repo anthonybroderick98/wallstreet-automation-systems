@@ -1,8 +1,6 @@
 # wallstreet-automation-systems
 Intelligent property automation systems using Python, LangChain, and cloud tools. Built to streamline communication, scheduling, and records for property teams.
 
-Here’s a well-written **README.md** draft tailored to both the **Wall Street Properties business impact** and your **AI Engineer application at Ramarketing**:
-
 ---
 
 # 🏢 Wall Street Automation Systems
@@ -81,9 +79,6 @@ This project is grounded in hands-on study from:
 
 ## 👋 Contact
 
-Built and maintained by [Your Name]  
+Built and maintained by Anthony Broderick
 Reach out if you'd like to see a live demo or discuss AI applications in property or marketing.
 
----
-
-Would you like this exported as a markdown file you can paste into your GitHub repo?
